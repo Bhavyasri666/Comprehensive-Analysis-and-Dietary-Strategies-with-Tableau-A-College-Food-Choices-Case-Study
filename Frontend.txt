@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Food Choices Dashboard</title>
+</head>
+<body>
+
+<h2>Comprehensive Analysis and Dietary Strategies</h2>
+
+<iframe 
+https://public.tableau.com/app/profile/mekala.bhavyasri/viz/p_9_17706430358980/Story1?publish=yes 
+ width="1000" 
+ height="800">
+</iframe>
+
+</body>
+</html>
